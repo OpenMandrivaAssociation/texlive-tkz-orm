@@ -50,3 +50,16 @@ diagrams in TeX based on the pgf and TikZ picture environment.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Jan 05 2012 Paulo Andrade <pcpa@mandriva.com.br> 0.1-2
++ Revision: 756997
+- Rebuild to reduce used resources
+
+* Sat Nov 05 2011 Paulo Andrade <pcpa@mandriva.com.br> 0.1-1
++ Revision: 719768
+- texlive-tkz-orm
+- texlive-tkz-orm
+- texlive-tkz-orm
+
