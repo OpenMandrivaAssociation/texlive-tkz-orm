@@ -6,7 +6,7 @@
 # catalog-version 0.1
 Name:		texlive-tkz-orm
 Version:	0.1
-Release:	3
+Release:	4
 Summary:	Create Object-Role Model (ORM) diagrams,
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm
