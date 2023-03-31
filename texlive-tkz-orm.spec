@@ -1,6 +1,6 @@
 Name:		texlive-tkz-orm
 Version:	61719
-Release:	1
+Release:	2
 Summary:	Create Object-Role Model (ORM) diagrams,
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm
