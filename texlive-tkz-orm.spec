@@ -3,7 +3,7 @@ Version:	61719
 Release:	2
 Summary:	Create Object-Role Model (ORM) diagrams,
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm
+URL:		https://www.ctan.org/tex-archive/graphics/pgf/contrib/tkz-orm
 License:	GPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-orm.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tkz-orm.doc.r%{version}.tar.xz
